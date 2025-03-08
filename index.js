@@ -25,3 +25,4 @@ dbConnect();
 app.get('/', (req, res) => {
     res.send('<h1>Welcome to the todo api</h1>');
 });
+//this is git checking command
